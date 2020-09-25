@@ -1,6 +1,6 @@
 # Facial-Expression-Recognition-in-Keras
 
-four objectives are as follows:
+Four objectives are as follows:
 
 1) Develop a facial expression recognition model in Keras.
 
